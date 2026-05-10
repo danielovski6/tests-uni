@@ -18,6 +18,10 @@
           "name": "Tema 3: Fisiología del sistema nervioso"
         },
         {
+          "id": "tema-4-fisiologia-del-aparato-endocrino",
+          "name": "Tema 4: Fisiología del aparato endocrino"
+        },
+        {
           "id": "tema-5-fisiologia-cardiovascular-y-linfatico",
           "name": "Tema 5: Fisiología cardiovascular y linfático"
         },
@@ -8498,6 +8502,3036 @@
           "difficulty": "easy",
           "explanation": "Porque la zona de la retina con mayor agudeza visual es fóvea.",
           "source": "preguntas_tipo_test_fisioterapia_tema_3_con_explicaciones.xlsx, fila 233"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-001",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué producen los órganos y tejidos del sistema endocrino?",
+          "options": [
+            "Hormonas",
+            "Neurotransmisores exclusivamente",
+            "Enzimas digestivas únicamente",
+            "Impulsos eléctricos"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque los órganos y tejidos del sistema endocrino producen hormonas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 2"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-002",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo se describe el sistema endocrino en el tema?",
+          "options": [
+            "Como una red de comunicación celular que responde a estímulos liberando hormonas",
+            "Como una red de músculos voluntarios",
+            "Como un sistema exclusivo de conducción eléctrica",
+            "Como un conjunto de huesos"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el sistema endocrino en el tema se describe como como una red de comunicación celular que responde a estímulos liberando hormonas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 3"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-003",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Por dónde son transportadas las hormonas hasta sus órganos diana?",
+          "options": [
+            "Por el torrente sanguíneo",
+            "Por el líquido cefalorraquídeo exclusivamente",
+            "Por los nervios",
+            "Por los conductos glandulares"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las hormonas hasta sus órganos diana son transportadas por el torrente sanguíneo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 4"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-004",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué tipo de cambios producen las hormonas según el tema?",
+          "options": [
+            "Cambios fisiológicos de cada situación y cambios metabólicos del organismo",
+            "Cambios exclusivamente anatómicos",
+            "Cambios solo eléctricos",
+            "Cambios solo musculares"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas producen cambios fisiológicos de cada situación y cambios metabólicos del organismo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 5"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-005",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué es un órgano o tejido diana?",
+          "options": [
+            "El lugar donde actúa la hormona",
+            "El lugar donde se destruye la hormona",
+            "La glándula que produce siempre la hormona",
+            "El vaso sanguíneo que la transporta"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque un órgano o tejido diana es el lugar donde actúa la hormona.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 6"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-006",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Por qué una hormona actúa solo sobre determinados órganos o tejidos diana?",
+          "options": [
+            "Porque estos tienen receptores para determinadas hormonas",
+            "Porque todos los órganos responden igual",
+            "Porque la sangre solo llega a algunos órganos",
+            "Porque las hormonas no circulan por sangre"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque porque estos tienen receptores para determinadas hormonas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 7"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-007",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué pueden recorrer las hormonas antes de llegar a sus órganos diana?",
+          "options": [
+            "Grandes distancias",
+            "Solo distancias microscópicas",
+            "Solo la distancia entre dos neuronas",
+            "Ninguna distancia"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las hormonas antes de llegar a sus órganos diana pueden recorrer grandes distancias.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 8"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-008",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es una función del sistema endocrino?",
+          "options": [
+            "Favorecer el mantenimiento de la homeostasis corporal",
+            "Producir movimiento voluntario",
+            "Transmitir información sensorial",
+            "Formar eritrocitos"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque una función del sistema endocrino es mantener la homeostasis corporal mediante la acción de sus hormonas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 9"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-009",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ejemplo de regulación homeostática se menciona en el tema?",
+          "options": [
+            "La regulación de las actividades metabólicas",
+            "La contracción voluntaria del bíceps",
+            "La visión",
+            "La audición"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el ejemplo de regulación indicado es la regulación de las actividades metabólicas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 10"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-010",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué otra función del sistema endocrino se menciona?",
+          "options": [
+            "Contribuir con el desarrollo y crecimiento del organismo",
+            "Realizar digestión mecánica",
+            "Formar la médula espinal",
+            "Producir cerumen"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el sistema endocrino también contribuye al desarrollo y crecimiento del organismo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 11"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-011",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Con qué función reproductiva colabora el sistema endocrino?",
+          "options": [
+            "Con el establecimiento de una correcta función reproductiva",
+            "Con la visión nocturna",
+            "Con la audición",
+            "Con la sensibilidad táctil"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el sistema endocrino colabora con con el establecimiento de una correcta función reproductiva.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 12"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-012",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "Si el órgano diana es a su vez un órgano endocrino, ¿qué puede hacer tras recibir la hormona?",
+          "options": [
+            "Secretar otra hormona diferente",
+            "Dejar de recibir sangre",
+            "Transformarse en músculo",
+            "Liberar solo neurotransmisores"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque un órgano diana endocrino puede responder secretando otra hormona diferente.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 13"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-013",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál de las siguientes es una glándula endocrina principal según el tema?",
+          "options": [
+            "Hipófisis",
+            "Glándula salival",
+            "Glándula sudorípara",
+            "Vesícula biliar"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la opción correcta es hipófisis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 14"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-014",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál de las siguientes es una glándula endocrina principal según el tema?",
+          "options": [
+            "Paratiroides",
+            "Páncreas exocrino",
+            "Glándula lacrimal",
+            "Próstata"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la opción correcta es paratiroides.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 15"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-015",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál de las siguientes es una glándula endocrina principal según el tema?",
+          "options": [
+            "Tiroides",
+            "Hígado",
+            "Bazo",
+            "Timo"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la opción correcta es tiroides.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 16"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-016",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál de las siguientes es una glándula endocrina principal según el tema?",
+          "options": [
+            "Suprarrenales",
+            "Glándulas sebáceas",
+            "Amígdalas",
+            "Piel"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la opción correcta es suprarrenales.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 17"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-017",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál de las siguientes es una glándula endocrina principal según el tema?",
+          "options": [
+            "Páncreas",
+            "Esófago",
+            "Vejiga",
+            "Tráquea"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la opción correcta es páncreas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 18"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-018",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué glándulas endocrinas se mencionan específicamente en la mujer?",
+          "options": [
+            "Ovarios",
+            "Testículos",
+            "Próstata",
+            "Epidídimo"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las glándulas endocrinas mencionadas en la mujer son ovarios.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 19"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-019",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué glándulas endocrinas se mencionan específicamente en el varón?",
+          "options": [
+            "Testículos",
+            "Ovarios",
+            "Trompas uterinas",
+            "Útero"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las glándulas endocrinas mencionadas en el varón son testículos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 20"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-020",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto general aparece en el esquema hormonal del tema?",
+          "options": [
+            "La hormona de una glándula endocrina llega al órgano diana y produce efectos sobre el organismo",
+            "La hormona solo actúa sobre la propia glándula",
+            "La hormona nunca viaja por sangre",
+            "El órgano diana no responde"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el esquema muestra que la hormona de una glándula endocrina llega al órgano diana y produce efectos sobre el organismo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 21"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-021",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué dos estructuras están unidas mediante el tallo o infundíbulo?",
+          "options": [
+            "Hipófisis e hipotálamo",
+            "Tiroides y paratiroides",
+            "Páncreas y suprarrenal",
+            "Ovario y útero"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las dos estructuras unidas mediante el tallo o infundíbulo son hipófisis e hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 22"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-022",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué estructura está en contacto directo con la hipófisis?",
+          "options": [
+            "El hipotálamo",
+            "La tiroides",
+            "El páncreas",
+            "La paratiroides"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la estructura en contacto directo con la hipófisis es el hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 23"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-023",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué órgano controla la hipófisis según el tema?",
+          "options": [
+            "El hipotálamo",
+            "La tiroides",
+            "El páncreas",
+            "La médula suprarrenal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la hipófisis está controlada por el hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 24"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-024",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo se comunica el hipotálamo con la hipófisis?",
+          "options": [
+            "Mediante hormonas",
+            "Mediante movimientos musculares",
+            "Mediante aire",
+            "Mediante linfa"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el hipotálamo con la hipófisis se comunica mediante hormonas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 25"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-025",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuántas vías se mencionan para conectar hipotálamo e hipófisis?",
+          "options": [
+            "Dos",
+            "Una",
+            "Tres",
+            "Cuatro"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque se mencionan dos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 26"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-026",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué vía conecta el hipotálamo con la neurohipófisis?",
+          "options": [
+            "La vía nerviosa",
+            "La vía vascular",
+            "La vía linfática",
+            "La vía digestiva"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la vía que conecta el hipotálamo con la neurohipófisis es la vía nerviosa.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 27"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-027",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre en la vía nerviosa hipotálamo-neurohipófisis?",
+          "options": [
+            "Las hormonas viajan por axones",
+            "Las hormonas viajan por capilares porta",
+            "No viajan hormonas",
+            "Solo viajan neurotransmisores a glándulas salivales"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque en la vía nerviosa hipotálamo-neurohipófisis las hormonas viajan por axones.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 28"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-028",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Dónde están los somas de las neuronas que conectan con la neurohipófisis?",
+          "options": [
+            "En el hipotálamo",
+            "En la hipófisis anterior",
+            "En la tiroides",
+            "En el páncreas"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque los somas de las neuronas que conectan con la neurohipófisis están en el hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 29"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-029",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Dónde se almacenan las hormonas producidas en el hipotálamo para su liberación posterior?",
+          "options": [
+            "En la neurohipófisis",
+            "En la adenohipófisis",
+            "En la tiroides",
+            "En la corteza suprarrenal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas producidas en el hipotálamo para su liberación posterior se almacenan en la neurohipófisis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 30"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-030",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué vía conecta el hipotálamo con la adenohipófisis?",
+          "options": [
+            "La vía vascular",
+            "La vía nerviosa",
+            "La vía linfática",
+            "La vía muscular"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la vía que conecta el hipotálamo con la adenohipófisis es la vía vascular.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 31"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-031",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo se denomina el sistema vascular que conecta hipotálamo y adenohipófisis?",
+          "options": [
+            "Sistema porta hipotálamo-hipofisario",
+            "Sistema porta hepático",
+            "Sistema linfático",
+            "Sistema simpático"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el sistema vascular que conecta hipotálamo y adenohipófisis se denomina sistema porta hipotálamo-hipofisario.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 32"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-032",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué parte de la hipófisis no sintetiza hormonas según el tema?",
+          "options": [
+            "La neurohipófisis",
+            "La adenohipófisis",
+            "Ambas partes",
+            "Ninguna"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la parte de la hipófisis que no sintetiza hormonas es la neurohipófisis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 33"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-033",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué tipo de células producen las hormonas almacenadas en la neurohipófisis?",
+          "options": [
+            "Neuronas del hipotálamo",
+            "Células de la adenohipófisis",
+            "Células tiroideas",
+            "Células beta pancreáticas"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas almacenadas en la neurohipófisis las producen neuronas del hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 34"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-034",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Por dónde llegan las hormonas desde el hipotálamo hasta la neurohipófisis?",
+          "options": [
+            "A través de los axones",
+            "A través del sistema porta",
+            "A través del conducto auditivo",
+            "A través de la linfa"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas desde el hipotálamo hasta la neurohipófisis llegan a través de los axones.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 35"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-035",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué dos hormonas almacena y secreta la neurohipófisis?",
+          "options": [
+            "ADH y oxitocina",
+            "GH y TSH",
+            "ACTH y prolactina",
+            "FSH y LH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la neurohipófisis almacena y secreta aDH y oxitocina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 36"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-036",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona almacenada en la neurohipófisis también se llama vasopresina?",
+          "options": [
+            "ADH",
+            "Oxitocina",
+            "GH",
+            "TSH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la hormona indicada es aDH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 37"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-037",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es el órgano diana principal de la ADH según el tema?",
+          "options": [
+            "El riñón",
+            "El útero",
+            "La tiroides",
+            "El ovario"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el órgano diana principal de la ADH es el riñón.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 38"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-038",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la ADH cuando el túbulo colector y los riñones son muy permeables al agua?",
+          "options": [
+            "Se reabsorbe más agua y sale menos en la orina",
+            "Se elimina más agua por orina",
+            "Se bloquea la reabsorción de agua",
+            "No cambia la diuresis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la ADH cuando el túbulo colector y los riñones son muy permeables al agua se reabsorbe más agua y sale menos en la orina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 39"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-039",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre con la orina cuando aumenta la acción de la ADH?",
+          "options": [
+            "Disminuye la cantidad de agua eliminada en la orina",
+            "Aumenta siempre la cantidad de orina",
+            "Se elimina más glucosa",
+            "Se vuelve independiente del riñón"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la orina cuando aumenta la acción de la ADH disminuye la cantidad de agua eliminada en la orina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 40"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-040",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuáles son los órganos diana de la oxitocina según el tema?",
+          "options": [
+            "Útero y mamas",
+            "Riñón y tiroides",
+            "Hígado y músculo",
+            "Páncreas y glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque los órganos diana de la oxitocina son útero y mamas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 41"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-041",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la oxitocina sobre el útero?",
+          "options": [
+            "Induce contracciones de las células musculares lisas de las paredes uterinas",
+            "Relaja el útero",
+            "Bloquea el parto",
+            "Disminuye el tono uterino siempre"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la oxitocina sobre el útero induce contracciones de las células musculares lisas de las paredes uterinas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 42"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-042",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuándo son especialmente importantes las contracciones uterinas inducidas por oxitocina?",
+          "options": [
+            "Durante la fase inmediatamente anterior al parto",
+            "Durante el ayuno",
+            "Durante la digestión",
+            "Durante el sueño"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las contracciones uterinas inducidas por oxitocina son especialmente importantes durante la fase inmediatamente anterior al parto.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 43"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-043",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la oxitocina sobre la glándula mamaria?",
+          "options": [
+            "Contrae los conductos y produce el reflejo de eyección de la leche",
+            "Inhibe por completo la leche",
+            "Produce glucosa",
+            "Aumenta la reabsorción renal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la oxitocina sobre la glándula mamaria contrae los conductos y produce el reflejo de eyección de la leche.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 44"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-044",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué significa que la neurohipófisis no sintetiza hormonas?",
+          "options": [
+            "Que las almacena y secreta, pero no las produce",
+            "Que no participa en la función endocrina",
+            "Que destruye todas las hormonas",
+            "Que solo produce neurotransmisores"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque significa que que las almacena y secreta, pero no las produce.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 45"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-045",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué recibe la adenohipófisis desde el hipotálamo?",
+          "options": [
+            "Hormonas creadas por el hipotálamo",
+            "Impulsos del nervio óptico",
+            "Hormonas tiroideas exclusivamente",
+            "Hormonas pancreáticas exclusivamente"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la adenohipófisis desde el hipotálamo recibe hormonas creadas por el hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 46"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-046",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hace la adenohipófisis en respuesta a los estímulos recibidos?",
+          "options": [
+            "Crea nuevas hormonas",
+            "Almacena solamente hormonas hipotalámicas",
+            "Produce neurotransmisores",
+            "Secreta bilis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la adenohipófisis en respuesta a los estímulos recibidos crea nuevas hormonas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 47"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-047",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué viaja por el sistema porta hipotálamo-hipofisario?",
+          "options": [
+            "Hormonas hipotalámicas",
+            "Oxitocina por axones",
+            "Sangre arterial del corazón",
+            "Hormonas tiroideas únicamente"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque por el sistema porta hipotálamo-hipofisario viajan hormonas hipotalámicas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 48"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-048",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo regula el hipotálamo la adenohipófisis?",
+          "options": [
+            "Mediante hormonas liberadoras o inhibidoras",
+            "Mediante contracciones musculares",
+            "Mediante secreción de insulina",
+            "Mediante impulsos de la retina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el hipotálamo la adenohipófisis regula mediante hormonas liberadoras o inhibidoras.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 49"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-049",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué puede hacer una hormona hipotalámica sobre la adenohipófisis?",
+          "options": [
+            "Estimular o inhibir la secreción de hormonas adenohipofisarias",
+            "Solo estimular siempre",
+            "Solo inhibir siempre",
+            "No modificarla"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque una hormona hipotalámica sobre la adenohipófisis puede estimular o inhibir la secreción de hormonas adenohipofisarias.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 50"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-050",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Quién determina la actividad de la adenohipófisis?",
+          "options": [
+            "El hipotálamo",
+            "El páncreas",
+            "La tiroides",
+            "La glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la actividad de la adenohipófisis la determina el hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 51"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-051",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre cuando el órgano diana también es endocrino?",
+          "options": [
+            "Su hormona puede ejercer retrocontrol sobre la adenohipófisis y el hipotálamo",
+            "Nunca responde a la señal",
+            "Solo secreta enzimas digestivas",
+            "Se vuelve exocrino"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque cuando el órgano diana también es endocrino, su hormona puede ejercer retrocontrol sobre la adenohipófisis y el hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 52"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-052",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué es el feedback negativo?",
+          "options": [
+            "El proceso que indica que debe finalizar la acción y disminuye la actividad de adenohipófisis e hipotálamo",
+            "El proceso que aumenta indefinidamente la secreción hormonal",
+            "Una hormona de la neurohipófisis",
+            "La síntesis de glucosa"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el feedback negativo es el proceso que indica que debe finalizar la acción y disminuye la actividad de adenohipófisis e hipotálamo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 53"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-053",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Para qué sirve el feedback negativo?",
+          "options": [
+            "Para evitar que la respuesta hormonal continúe cuando ya se ha logrado el objetivo",
+            "Para activar siempre más glándulas",
+            "Para transformar hormonas en enzimas",
+            "Para aumentar el tamaño de la hipófisis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el feedback negativo sirve para evitar que la respuesta hormonal continúe cuando ya se ha logrado el objetivo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 54"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-054",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona libera la adenohipófisis en respuesta a la GHRH?",
+          "options": [
+            "GH",
+            "TSH",
+            "ACTH",
+            "PRL"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la adenohipófisis en respuesta a la GHRH libera gH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 55"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-055",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica estimula la liberación de GH?",
+          "options": [
+            "GHRH",
+            "TRH",
+            "CRH",
+            "GnRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la hormona hipotalámica que estimula la liberación de GH es gHRH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 56"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-056",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica inhibe la liberación de GH?",
+          "options": [
+            "GHIH o somatostatina",
+            "GHRH",
+            "TRH",
+            "PRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la hormona hipotalámica que inhibe la liberación de GH es gHIH o somatostatina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 57"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-057",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hace directamente la GH sobre hígado y otros órganos diana?",
+          "options": [
+            "Estimula la producción de IGF-I e IGF-II",
+            "Estimula la producción de T3 y T4",
+            "Estimula la liberación de insulina",
+            "Estimula la producción de melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque directamente la GH sobre hígado y otros órganos diana estimula la producción de IGF-I e IGF-II.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 58"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-058",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué significan IGF-I e IGF-II en el tema?",
+          "options": [
+            "Factores de crecimiento parecidos a la insulina",
+            "Hormonas tiroideas",
+            "Hormonas gonadotrópicas",
+            "Hormonas pancreáticas"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque IGF-I e IGF-II en el tema significan factores de crecimiento parecidos a la insulina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 59"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-059",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Sobre qué tejidos actúan IGF-I e IGF-II para favorecer el crecimiento?",
+          "options": [
+            "Hueso y músculo",
+            "Tiroides y paratiroides",
+            "Riñón y vejiga",
+            "Retina y córnea"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque IGF-I e IGF-II para favorecer el crecimiento actúan sobre hueso y músculo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 60"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-060",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el crecimiento?",
+          "options": [
+            "Favorece el crecimiento óseo y muscular",
+            "Lo inhibe siempre",
+            "Solo aumenta la secreción de cortisol",
+            "Solo reduce la glucemia"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la GH sobre el crecimiento favorece el crecimiento óseo y muscular.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 61"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-061",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el hueso?",
+          "options": [
+            "Estimula el depósito de calcio y la mineralización",
+            "Reduce la mineralización",
+            "Disminuye la actividad osteoblástica",
+            "No influye en el hueso"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el hueso estimula el depósito de calcio y la mineralización.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 62"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-062",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre los músculos?",
+          "options": [
+            "Contribuye al desarrollo muscular",
+            "Reduce el desarrollo muscular",
+            "Solo relaja músculo liso",
+            "No tiene efecto"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre los músculos contribuye al desarrollo muscular.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 63"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-063",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el páncreas?",
+          "options": [
+            "Mantiene los islotes pancreáticos y favorece la síntesis de insulina y glucagón",
+            "Destruye los islotes pancreáticos",
+            "Inhibe toda secreción pancreática",
+            "Solo produce somatostatina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque la GH sobre el páncreas mantiene los islotes pancreáticos y favorece la síntesis de insulina y glucagón.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 64"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-064",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el sistema inmunitario?",
+          "options": [
+            "Activa la función de órganos inmunitarios como el timo y la producción de anticuerpos",
+            "Lo suprime completamente",
+            "No tiene ninguna relación",
+            "Solo actúa en la médula ósea"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el sistema inmunitario activa la función de órganos inmunitarios como el timo y la producción de anticuerpos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 65"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-065",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el sistema cardiovascular?",
+          "options": [
+            "Favorece el crecimiento cardíaco y aumenta la contractilidad y el gasto cardíaco",
+            "Disminuye siempre la contractilidad",
+            "No afecta al corazón",
+            "Reduce la presión de forma directa"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el sistema cardiovascular favorece el crecimiento cardíaco y aumenta la contractilidad y el gasto cardíaco.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 66"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-066",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre las gónadas?",
+          "options": [
+            "Activa el desarrollo y maduración de órganos reproductores y células sexuales",
+            "Inhibe la pubertad",
+            "Bloquea la función gonadal",
+            "Solo actúa en la glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre las gónadas activa el desarrollo y maduración de órganos reproductores y células sexuales.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 67"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-067",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el intestino?",
+          "options": [
+            "Aumenta la absorción de calcio",
+            "Disminuye la absorción de calcio",
+            "No absorbe nutrientes",
+            "Solo absorbe sodio"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el intestino aumenta la absorción de calcio.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 68"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-068",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué produce el hígado en respuesta a GH según el tema?",
+          "options": [
+            "Somatomedinas",
+            "Melatonina",
+            "Calcitonina",
+            "Aldosterona"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el hígado en respuesta a GH produce somatomedinas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 69"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-069",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el riñón?",
+          "options": [
+            "Incrementa la reabsorción de sodio",
+            "Aumenta la pérdida de sodio siempre",
+            "No modifica el sodio",
+            "Reduce la filtración glomerular siempre"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el riñón incrementa la reabsorción de sodio.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 70"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-070",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el metabolismo de proteínas?",
+          "options": [
+            "Estimula la síntesis de proteínas en el interior de las células",
+            "Inhibe la síntesis proteica",
+            "Degrada todas las proteínas",
+            "No tiene efecto"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el metabolismo de proteínas estimula la síntesis de proteínas en el interior de las células.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 71"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-071",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el metabolismo de lípidos?",
+          "options": [
+            "Disminuye la grasa corporal",
+            "Aumenta la grasa corporal siempre",
+            "Bloquea la degradación de triglicéridos",
+            "No moviliza ácidos grasos"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el metabolismo de lípidos disminuye la grasa corporal.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 72"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-072",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo disminuye la GH la grasa corporal según el tema?",
+          "options": [
+            "Estimula la degradación de triglicéridos y libera ácidos grasos a sangre",
+            "Aumenta la síntesis de grasa",
+            "Inhibe el uso de lípidos",
+            "Reduce la lipólisis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque la GH la grasa corporal disminuye estimula la degradación de triglicéridos y libera ácidos grasos a sangre.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 73"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-073",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la GH sobre el metabolismo de hidratos de carbono?",
+          "options": [
+            "Disminuye la captación de glucosa por las células del organismo",
+            "Aumenta siempre la captación celular de glucosa",
+            "No influye en la glucemia",
+            "Bloquea el hígado"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la GH sobre el metabolismo de hidratos de carbono disminuye la captación de glucosa por las células del organismo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 74"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-074",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo se denomina el efecto de la GH sobre la glucosa según el tema?",
+          "options": [
+            "Efecto anti-insulínico o diabetógeno",
+            "Efecto hipoglucemiante",
+            "Efecto mineralocorticoide",
+            "Efecto osteoblástico"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque el efecto de la GH sobre la glucosa se denomina efecto anti-insulínico o diabetógeno.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 75"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-075",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué factores estimulan la producción de GH?",
+          "options": [
+            "Disminución de glucemia, ejercicio físico, pubertad, sueño profundo y estrés físico o emocional",
+            "Elevación de glucemia y obesidad",
+            "Aumento de ácidos grasos libres y envejecimiento",
+            "Solo la luz"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque la producción de GH la estimulan disminución de glucemia, ejercicio físico, pubertad, sueño profundo y estrés físico o emocional.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 76"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-076",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué factor estimula la producción de GH?",
+          "options": [
+            "Disminución de la glucemia",
+            "Elevación de la glucemia",
+            "Obesidad",
+            "Envejecimiento fisiológico"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque disminución de la glucemia es uno de los factores que estimulan la producción de GH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 77"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-077",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué factor estimula la producción de GH?",
+          "options": [
+            "Ejercicio físico",
+            "Aumento de ácidos grasos libres",
+            "Obesidad",
+            "Hiperglucemia"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque ejercicio físico es uno de los factores que estimulan la producción de GH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 78"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-078",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué factor estimula la producción de GH?",
+          "options": [
+            "Sueño profundo",
+            "Elevación de glucemia",
+            "Obesidad",
+            "Envejecimiento"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque sueño profundo es uno de los factores que estimulan la producción de GH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 79"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-079",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué factores disminuyen la producción de GH?",
+          "options": [
+            "Elevación de glucemia, aumento de ácidos grasos libres, obesidad y envejecimiento fisiológico",
+            "Disminución de glucemia, sueño profundo y ejercicio",
+            "Pubertad y estrés",
+            "Solo ayuno"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque la producción de GH la disminuyen elevación de glucemia, aumento de ácidos grasos libres, obesidad y envejecimiento fisiológico.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 80"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-080",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo cambia la secreción de GH con la edad según las gráficas del tema?",
+          "options": [
+            "Disminuye de forma marcada",
+            "Aumenta progresivamente",
+            "No cambia",
+            "Desaparece al nacer"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la secreción de GH con la edad según las gráficas del tema disminuye de forma marcada.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 81"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-081",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué patrón de secreción de GH se observa en las gráficas?",
+          "options": [
+            "Pulsátil, con pérdida de aumento nocturno con la edad",
+            "Constante durante todo el día",
+            "Solo matutino",
+            "Solo tras las comidas"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque de GH se observa en las gráficas muestra un patrón pulsátil, con pérdida de aumento nocturno con la edad.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 82"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-082",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hace el hipotálamo para inhibir la secreción de GH cuando los órganos diana mandan feedback negativo?",
+          "options": [
+            "Libera GHIH o somatostatina",
+            "Libera GHRH",
+            "Libera TRH",
+            "Libera CRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el hipotálamo para inhibir la secreción de GH cuando los órganos diana mandan feedback negativo libera GHIH o somatostatina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 83"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-083",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la somatostatina sobre la GH?",
+          "options": [
+            "Disminuye su liberación",
+            "La aumenta",
+            "La transforma en IGF",
+            "No produce cambios"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la somatostatina sobre la GH disminuye su liberación.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 84"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-084",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué significa TSH?",
+          "options": [
+            "Hormona estimulante del tiroides o tirotropina",
+            "Hormona somatotropa hipotalámica",
+            "Hormona sexual hipofisaria",
+            "Hormona pancreática"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque TSH significa hormona estimulante del tiroides o tirotropina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 85"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-085",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Dónde se produce la TSH?",
+          "options": [
+            "En la adenohipófisis",
+            "En la neurohipófisis",
+            "En la tiroides",
+            "En el páncreas"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la TSH se produce en la adenohipófisis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 86"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-086",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica estimula la liberación de TSH?",
+          "options": [
+            "TRH",
+            "GHRH",
+            "CRH",
+            "GnRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la hormona hipotalámica que estimula la liberación de TSH es tRH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 87"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-087",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es el órgano diana de la TSH?",
+          "options": [
+            "La tiroides",
+            "La corteza suprarrenal",
+            "El ovario",
+            "La glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el órgano diana de la TSH es la tiroides.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 88"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-088",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormonas sintetiza el tiroides según el tema?",
+          "options": [
+            "T3 y T4",
+            "GH y TSH",
+            "Cortisol y aldosterona",
+            "Insulina y glucagón"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el tiroides sintetiza t3 y T4.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 89"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-089",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo se llama la T3?",
+          "options": [
+            "Triyodotironina",
+            "Tiroxina",
+            "Tirotropina",
+            "Somatostatina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la T3 se llama triyodotironina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 90"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-090",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo se llama la T4?",
+          "options": [
+            "Tiroxina",
+            "Triyodotironina",
+            "Tirotropina",
+            "Corticotropina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la T4 se llama tiroxina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 91"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-091",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Dónde se almacenan las hormonas tiroideas?",
+          "options": [
+            "En los folículos tiroideos",
+            "En el páncreas",
+            "En los túbulos renales",
+            "En la neurohipófisis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas tiroideas se almacenan en los folículos tiroideos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 92"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-092",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué órganos son diana principales de T3 y T4 según el tema?",
+          "options": [
+            "Músculos, tejido adiposo, hueso, sistema nervioso central y metabolismo",
+            "Solo riñones",
+            "Solo gónadas",
+            "Solo glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque los órganos diana principales de T3 y T4 son músculos, tejido adiposo, hueso, sistema nervioso central y metabolismo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 93"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-093",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormonas favorecen el crecimiento del organismo junto con GH e insulina?",
+          "options": [
+            "T3 y T4",
+            "ADH y oxitocina",
+            "Cortisol y aldosterona",
+            "Insulina y glucagón"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas que favorecen el crecimiento del organismo junto con GH e insulina son t3 y T4.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 94"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-094",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre con el metabolismo basal por acción de las hormonas tiroideas?",
+          "options": [
+            "Aumenta",
+            "Disminuye",
+            "No cambia",
+            "Se anula"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el metabolismo basal por acción de las hormonas tiroideas aumenta.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 95"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-095",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto produce el aumento del índice metabólico basal?",
+          "options": [
+            "Mayor consumo de oxígeno y generación de más calor",
+            "Menor consumo de oxígeno",
+            "Disminución de la temperatura corporal",
+            "Bloqueo de la producción de calor"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el aumento del índice metabólico basal produce mayor consumo de oxígeno y generación de más calor.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 96"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-096",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tienen las hormonas tiroideas sobre la absorción de glucosa en el tracto gastrointestinal?",
+          "options": [
+            "La incrementan",
+            "La disminuyen",
+            "La bloquean",
+            "No actúan en ella"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas tiroideas sobre la absorción de glucosa en el tracto gastrointestinal la incrementan.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 97"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-097",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tienen las hormonas tiroideas sobre la síntesis de proteínas?",
+          "options": [
+            "La favorecen",
+            "La inhiben",
+            "La eliminan",
+            "No intervienen"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas tiroideas sobre la síntesis de proteínas la favorecen.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 98"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-098",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tienen las hormonas tiroideas sobre la lipólisis?",
+          "options": [
+            "La aumentan",
+            "La disminuyen",
+            "No la modifican",
+            "La bloquean"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas tiroideas sobre la lipólisis la aumentan.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 99"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-099",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto cardiovascular producen T3 y T4?",
+          "options": [
+            "Aumentan el gasto cardíaco",
+            "Disminuyen el gasto cardíaco",
+            "No afectan al corazón",
+            "Bloquean la frecuencia cardíaca"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque T3 y T4 aumentan el gasto cardíaco.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 100"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-100",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto respiratorio producen T3 y T4?",
+          "options": [
+            "Aumentan la ventilación",
+            "La disminuyen",
+            "No la modifican",
+            "La detienen"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque T3 y T4 aumentan la ventilación.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 101"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-101",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre con la contractilidad muscular por acción de las hormonas tiroideas?",
+          "options": [
+            "Se facilita, especialmente la relajación diastólica",
+            "Se bloquea",
+            "No cambia",
+            "Se vuelve voluntaria"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque la contractilidad muscular por acción de las hormonas tiroideas se facilita, especialmente la relajación diastólica.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 102"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-102",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tienen T3 y T4 sobre el hueso?",
+          "options": [
+            "Estimulan la actividad de los osteoblastos",
+            "Inhiben la formación ósea",
+            "Destruyen el colágeno óseo",
+            "No influyen en el hueso"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque T3 y T4 sobre el hueso estimulan la actividad de los osteoblastos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 103"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-103",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué papel tienen las hormonas tiroideas durante la gestación respecto al SNC?",
+          "options": [
+            "Influyen en el desarrollo del cerebro",
+            "No intervienen",
+            "Solo reducen la mielinización",
+            "Solo actúan tras el nacimiento"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las hormonas tiroideas durante la gestación respecto al SNC influyen en el desarrollo del cerebro.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 104"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-104",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué procesos del sistema nervioso central regulan las hormonas tiroideas?",
+          "options": [
+            "Mielinización, migración neuronal y maduración de músculos, neuronas, sinapsis y tejido conectivo",
+            "Solo la visión",
+            "Solo la audición",
+            "Solo la secreción de ADH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque del sistema nervioso central regulan las hormonas tiroideas regulan mielinización, migración neuronal y maduración de músculos, neuronas, sinapsis y tejido conectivo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 105"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-105",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué significa ACTH?",
+          "options": [
+            "Hormona adrenocorticotropa o corticotropina",
+            "Hormona antidiurética",
+            "Hormona estimulante del tiroides",
+            "Hormona luteinizante"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque ACTH significa hormona adrenocorticotropa o corticotropina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 106"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-106",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Con qué se relaciona especialmente la ACTH según el tema?",
+          "options": [
+            "Con el estrés",
+            "Con el sueño",
+            "Con la audición",
+            "Con la visión"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque especialmente la ACTH se relaciona con el estrés.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 107"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-107",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Dónde se produce la ACTH?",
+          "options": [
+            "En la hipófisis",
+            "En la corteza suprarrenal",
+            "En la médula suprarrenal",
+            "En la glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la ACTH se produce en la hipófisis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 108"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-108",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica estimula la liberación de ACTH?",
+          "options": [
+            "CRH",
+            "TRH",
+            "GHRH",
+            "GnRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la hormona hipotalámica que estimula la liberación de ACTH es cRH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 109"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-109",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es el órgano diana de la ACTH?",
+          "options": [
+            "Las glándulas suprarrenales, especialmente su corteza",
+            "La tiroides",
+            "El riñón",
+            "La glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el órgano diana de la ACTH es las glándulas suprarrenales, especialmente su corteza.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 110"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-110",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué tipos de hormonas produce la corteza suprarrenal según el tema?",
+          "options": [
+            "Mineralocorticoides, glucocorticoides y esteroides sexuales",
+            "Insulina, glucagón y somatostatina",
+            "T3, T4 y calcitonina",
+            "ADH y oxitocina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la corteza suprarrenal produce mineralocorticoides, glucocorticoides y esteroides sexuales.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 111"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-111",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué mineralocorticoide se menciona en el tema?",
+          "options": [
+            "Aldosterona",
+            "Cortisol",
+            "DHEA",
+            "Adrenalina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el mineralocorticoide mencionado es aldosterona.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 112"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-112",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué glucocorticoide se menciona en el tema?",
+          "options": [
+            "Cortisol",
+            "Aldosterona",
+            "DHEA",
+            "Noradrenalina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el glucocorticoide mencionado es cortisol.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 113"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-113",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué esteroide sexual suprarrenal se menciona?",
+          "options": [
+            "DHEA",
+            "Aldosterona",
+            "Cortisol",
+            "Insulina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el esteroide sexual suprarrenal mencionado es dHEA.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 114"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-114",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿De qué precursor procede la DHEA según el tema?",
+          "options": [
+            "Del colesterol",
+            "De la glucosa",
+            "De la melatonina",
+            "De la tiroxina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la DHEA procede del colesterol.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 115"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-115",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué favorece la aldosterona en el riñón?",
+          "options": [
+            "La absorción de agua y electrolitos como Na+",
+            "La pérdida masiva de agua",
+            "La excreción de todo el sodio",
+            "La síntesis de glucagón"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la aldosterona en el riñón favorece la absorción de agua y electrolitos como Na+.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 116"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-116",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué regula el cortisol además del metabolismo?",
+          "options": [
+            "Tiene propiedades antiinflamatorias e inmunosupresoras",
+            "La visión nocturna",
+            "La audición",
+            "La contracción uterina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el cortisol además del metabolismo regula tiene propiedades antiinflamatorias e inmunosupresoras.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 117"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-117",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto inmediato puede tener un pequeño estado de alerta con poca dosis de estrés según el tema?",
+          "options": [
+            "Generar picos de cortisol",
+            "Eliminar el cortisol",
+            "Bloquear la ACTH",
+            "Aumentar la melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque un pequeño estado de alerta con poca dosis de estrés puede generar picos de cortisol.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 118"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-118",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene el cortisol sobre la glucosa sanguínea?",
+          "options": [
+            "La aumenta",
+            "La disminuye",
+            "No la modifica",
+            "La convierte en melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el cortisol sobre la glucosa sanguínea la aumenta.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 119"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-119",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué dos partes tiene la glándula suprarrenal?",
+          "options": [
+            "Médula interna y corteza externa",
+            "Corteza interna y médula externa",
+            "Adenohipófisis y neurohipófisis",
+            "Folículo y coloide"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la glándula suprarrenal tiene médula interna y corteza externa.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 120"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-120",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué secreta la médula suprarrenal?",
+          "options": [
+            "Catecolaminas como adrenalina y noradrenalina",
+            "Cortisol y aldosterona",
+            "Insulina y glucagón",
+            "T3 y T4"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la médula suprarrenal secreta catecolaminas como adrenalina y noradrenalina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 121"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-121",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Con qué se asocia la secreción de catecolaminas de la médula suprarrenal?",
+          "options": [
+            "Con actividades de riesgo y respuesta a estimulación simpática",
+            "Con el reposo digestivo",
+            "Con la secreción de leche",
+            "Con la visión"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la secreción de catecolaminas de la médula suprarrenal se asocia con actividades de riesgo y respuesta a estimulación simpática.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 122"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-122",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Por qué la médula suprarrenal es un órgano diana del sistema nervioso simpático?",
+          "options": [
+            "Porque recibe estímulos nerviosos directos",
+            "Porque solo recibe hormonas hipofisarias",
+            "Porque no tiene inervación",
+            "Porque produce T3"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque porque recibe estímulos nerviosos directos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 123"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-123",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué característica distingue a la corteza suprarrenal de la médula?",
+          "options": [
+            "No recibe inervación nerviosa y debe ser estimulada por hormonas como la ACTH",
+            "Recibe solo impulsos eléctricos",
+            "No secreta hormonas",
+            "Produce catecolaminas exclusivamente"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque a la corteza suprarrenal de la médula se distingue porque no recibe inervación nerviosa y debe ser estimulada por hormonas como la ACTH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 124"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-124",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipofisaria estimula la corteza suprarrenal?",
+          "options": [
+            "ACTH",
+            "TSH",
+            "FSH",
+            "GH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la hormona hipofisaria que estimula la corteza suprarrenal es aCTH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 125"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-125",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la aldosterona sobre K+?",
+          "options": [
+            "Activa la excreción de K+ hacia la orina",
+            "Retiene K+ en sangre siempre",
+            "No influye en K+",
+            "Convierte K+ en Na+"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la aldosterona sobre K+ activa la excreción de K+ hacia la orina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 126"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-126",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tienen las acciones de la aldosterona sobre volumen y presión sanguíneos?",
+          "options": [
+            "Los elevan",
+            "Los disminuyen",
+            "No los modifican",
+            "Los hacen desaparecer"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las acciones de la aldosterona sobre volumen y presión sanguíneos los elevan.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 127"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-127",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene el cortisol sobre el metabolismo de hidratos de carbono?",
+          "options": [
+            "Aumenta la gluconeogénesis",
+            "La disminuye",
+            "La bloquea",
+            "No participa"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el cortisol sobre el metabolismo de hidratos de carbono aumenta la gluconeogénesis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 128"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-128",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué significa gluconeogénesis según el contexto del tema?",
+          "options": [
+            "Producción de glucosa a partir de otros sustratos",
+            "Producción de lípidos a partir de glucosa",
+            "Destrucción de proteínas",
+            "Reabsorción de sodio"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque gluconeogénesis según el contexto del tema significa producción de glucosa a partir de otros sustratos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 129"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-129",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene el cortisol sobre el metabolismo de lípidos?",
+          "options": [
+            "Estimula la lipólisis",
+            "La inhibe",
+            "No tiene efecto",
+            "Solo estimula la síntesis de triglicéridos"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el cortisol sobre el metabolismo de lípidos estimula la lipólisis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 130"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-130",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene el cortisol sobre el metabolismo de proteínas?",
+          "options": [
+            "Estimula la degradación de proteínas",
+            "Estimula exclusivamente su síntesis",
+            "No actúa sobre ellas",
+            "Las convierte en melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque el cortisol sobre el metabolismo de proteínas estimula la degradación de proteínas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 131"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-131",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Para qué pueden usarse los aminoácidos liberados por la acción del cortisol?",
+          "options": [
+            "Para producir ATP o nuevas proteínas",
+            "Para producir melatonina exclusivamente",
+            "Para formar hormonas tiroideas",
+            "Para formar linfa"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque los aminoácidos liberados por la acción del cortisol pueden usarse para producir ATP o nuevas proteínas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 132"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-132",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Por qué se administran glucocorticoides en trasplantes de órganos?",
+          "options": [
+            "Para deprimir la respuesta inmune y reducir el riesgo de rechazo",
+            "Para estimular el rechazo",
+            "Para aumentar la fiebre",
+            "Para incrementar la respuesta inflamatoria"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque para deprimir la respuesta inmune y reducir el riesgo de rechazo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 133"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-133",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto antiinflamatorio tienen los glucocorticoides?",
+          "options": [
+            "Ayudan a inhibir la inflamación",
+            "La aumentan",
+            "No influyen en ella",
+            "Solo producen dolor"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque los glucocorticoides ayudan a inhibir la inflamación.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 134"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-134",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué patrón diario de cortisol se muestra en la gráfica del tema?",
+          "options": [
+            "Un pico aproximadamente a las 8 de la mañana",
+            "Un pico a medianoche",
+            "Un nivel completamente constante",
+            "Ausencia total por la mañana"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque cortisol se muestra en la gráfica del tema muestra un pico aproximadamente a las 8 de la mañana.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 135"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-135",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormonas adenohipofisarias regulan las gónadas según el tema?",
+          "options": [
+            "FSH y LH",
+            "GH y TSH",
+            "ACTH y PRL",
+            "ADH y oxitocina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las hormonas adenohipofisarias que regulan las gónadas son fSH y LH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 136"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-136",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica regula la liberación de FSH y LH?",
+          "options": [
+            "GnRH",
+            "CRH",
+            "TRH",
+            "GHRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la hormona hipotalámica que regula la liberación de FSH y LH es gnRH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 137"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-137",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuáles son los órganos diana de las gonadotropinas?",
+          "options": [
+            "Las gónadas",
+            "La tiroides",
+            "Las suprarrenales",
+            "El riñón"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque los órganos diana de las gonadotropinas son las gónadas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 138"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-138",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es una función de las gonadotropinas sobre las gónadas?",
+          "options": [
+            "Desarrollo morfológico de la glándula",
+            "Disminuir la función reproductora",
+            "Inhibir la secreción hormonal",
+            "Bloquear la pubertad"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque una función de las gonadotropinas sobre las gónadas es desarrollo morfológico de la glándula.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 139"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-139",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es otra función de las gonadotropinas?",
+          "options": [
+            "Favorecer el proceso de gametogénesis",
+            "Impedir la formación de gametos",
+            "Formar cortisol",
+            "Aumentar la melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque otra función de las gonadotropinas es favorecer el proceso de gametogénesis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 140"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-140",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué favorecen también las gonadotropinas?",
+          "options": [
+            "La secreción de hormonas sexuales masculinas y femeninas",
+            "La secreción de ADH",
+            "La síntesis de T3 y T4",
+            "La liberación de melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque las gonadotropinas también favorecen la secreción de hormonas sexuales masculinas y femeninas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 141"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-141",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Por qué las hormonas sexuales deben llegar a sus órganos diana?",
+          "options": [
+            "Para permitir el correcto desarrollo del aparato reproductor masculino y femenino",
+            "Para regular la audición",
+            "Para aumentar la reabsorción renal",
+            "Para estimular la glándula pineal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque para permitir el correcto desarrollo del aparato reproductor masculino y femenino.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 142"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-142",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tienen los estrógenos a partir de la pubertad?",
+          "options": [
+            "Estimulan el desarrollo de caracteres sexuales secundarios, inducen mayor distribución de grasa y favorecen mineralización ósea",
+            "Estimulan el crecimiento de barba",
+            "Disminuyen la grasa corporal siempre",
+            "Inhiben la mineralización ósea"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque los estrógenos a partir de la pubertad estimulan el desarrollo de caracteres sexuales secundarios, inducen mayor distribución de grasa y favorecen mineralización ósea.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 143"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-143",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tienen los andrógenos a partir de la pubertad?",
+          "options": [
+            "Estimulan caracteres sexuales secundarios, aumentan estatura y masa corporal",
+            "Disminuyen la talla",
+            "Solo reducen la masa muscular",
+            "No influyen en el desarrollo sexual"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque los andrógenos a partir de la pubertad estimulan caracteres sexuales secundarios, aumentan estatura y masa corporal.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 144"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-144",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "En mujeres, ¿qué hace la FSH?",
+          "options": [
+            "Estimula el crecimiento y desarrollo de folículos ováricos",
+            "Estimula la secreción de testosterona",
+            "Inhibe la ovulación",
+            "Produce leche"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque en la mujer la FSH estimula el crecimiento y desarrollo de los folículos ováricos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 145"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-145",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "En mujeres, ¿qué hace la LH?",
+          "options": [
+            "Estimula la ovulación",
+            "Estimula la producción de espermatozoides",
+            "Inhibe el cuerpo lúteo",
+            "Reduce los estrógenos"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque en la mujer la LH desencadena la ovulación.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 146"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-146",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "En mujeres, ¿qué estimula la LH en el cuerpo lúteo?",
+          "options": [
+            "La secreción de progesterona",
+            "La secreción de insulina",
+            "La secreción de cortisol",
+            "La secreción de melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la LH estimula en el cuerpo lúteo la secreción de progesterona.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 147"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-147",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "En hombres, ¿qué hace la FSH?",
+          "options": [
+            "Estimula la producción de espermatozoides en los testículos",
+            "Estimula la ovulación",
+            "Estimula la leche",
+            "Disminuye la función gonadal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque en el varón la FSH estimula la producción de espermatozoides en los testículos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 148"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-148",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "En hombres, ¿qué hace la LH?",
+          "options": [
+            "Estimula la secreción de testosterona",
+            "Estimula la producción de leche",
+            "Estimula la secreción de melatonina",
+            "Disminuye la espermatogénesis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque en el varón la LH estimula la secreción de testosterona.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 149"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-149",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Dónde se libera la prolactina?",
+          "options": [
+            "En la hipófisis",
+            "En la glándula mamaria",
+            "En el ovario",
+            "En la tiroides"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la prolactina se libera en la hipófisis.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 150"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-150",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es el órgano diana principal de la prolactina?",
+          "options": [
+            "Las glándulas mamarias",
+            "La tiroides",
+            "El riñón",
+            "La corteza suprarrenal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el órgano diana principal de la prolactina es las glándulas mamarias.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 151"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-151",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica inhibe la liberación de prolactina?",
+          "options": [
+            "PIH",
+            "PRH",
+            "GHRH",
+            "TRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la hormona hipotalámica que inhibe la liberación de prolactina es pIH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 152"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-152",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica puede estimular la liberación de prolactina?",
+          "options": [
+            "PRH",
+            "PIH",
+            "GHIH",
+            "CRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la hormona hipotalámica que puede estimular la liberación de prolactina es pRH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 153"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-153",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre durante la mayor parte de la vida de la mujer respecto a la prolactina?",
+          "options": [
+            "Está inhibida",
+            "Está siempre muy elevada",
+            "No existe",
+            "Solo se produce tras la menopausia"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque durante la mayor parte de la vida de la mujer respecto a la prolactina está inhibida.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 154"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-154",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona hipotalámica permanece presente en cantidad durante la mayor parte de la vida para inhibir prolactina?",
+          "options": [
+            "PIH",
+            "PRH",
+            "GnRH",
+            "CRH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la hormona hipotalámica que permanece presente en cantidad durante la mayor parte de la vida para inhibir prolactina es pIH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 155"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-155",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre durante el embarazo con la secreción de prolactina?",
+          "options": [
+            "Aumenta porque cae la secreción de PIH y aumenta PRH",
+            "Desaparece",
+            "Disminuye por completo",
+            "No cambia"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque durante el embarazo con la secreción de prolactina aumenta porque cae la secreción de PIH y aumenta PRH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 156"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-156",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es una función de la prolactina durante la pubertad?",
+          "options": [
+            "Favorecer el desarrollo de la estructura mamaria",
+            "Inhibir la glándula mamaria",
+            "Bloquear la lactancia futura",
+            "Disminuir los conductos mamarios"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque una función de la prolactina durante la pubertad es favorecer el desarrollo de la estructura mamaria.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 157"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-157",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué estimula la prolactina junto con las hormonas sexuales femeninas durante la pubertad?",
+          "options": [
+            "La proliferación y ramificación de los conductos mamarios",
+            "La contracción uterina",
+            "La secreción de cortisol",
+            "La producción de melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la prolactina junto con las hormonas sexuales femeninas durante la pubertad estimula la proliferación y ramificación de los conductos mamarios.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 158"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-158",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la prolactina durante el embarazo sobre el tejido mamario?",
+          "options": [
+            "Estimula el crecimiento y desarrollo de los alvéolos mamarios",
+            "Lo atrofia",
+            "Lo vuelve insensible",
+            "No produce cambios"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la prolactina durante el embarazo sobre el tejido mamario estimula el crecimiento y desarrollo de los alvéolos mamarios.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 159"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-159",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es la principal acción de la prolactina después del parto?",
+          "options": [
+            "Estimular la producción y secreción de leche en respuesta a la succión",
+            "Estimular la eyección de leche",
+            "Contraer el útero",
+            "Aumentar la reabsorción renal"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la principal acción de la prolactina después del parto es estimular la producción y secreción de leche en respuesta a la succión.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 160"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-160",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la prolactina sobre la ovulación?",
+          "options": [
+            "La inhibe",
+            "La estimula",
+            "No la modifica",
+            "La convierte en menstruación"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la prolactina sobre la ovulación la inhibe.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 161"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-161",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo inhibe la prolactina la ovulación según el tema?",
+          "options": [
+            "Inhibe la síntesis y liberación de GnRH",
+            "Aumenta la liberación de GnRH",
+            "Estimula FSH y LH",
+            "Aumenta la progesterona siempre"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque la prolactina la ovulación inhibe inhibe la síntesis y liberación de GnRH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 162"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-162",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué consecuencia tiene la inhibición de GnRH por prolactina?",
+          "options": [
+            "Disminuye la fertilidad durante la lactancia",
+            "Aumenta la fertilidad",
+            "Aumenta la ovulación",
+            "No modifica la fertilidad"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la inhibición de GnRH por prolactina tiene como consecuencia que disminuye la fertilidad durante la lactancia.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 163"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-163",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué glándulas periféricas no están reguladas por el eje hipofisario según el tema?",
+          "options": [
+            "Paratiroides, páncreas endocrino y glándula pineal",
+            "Tiroides y suprarrenales",
+            "Ovarios y testículos",
+            "Adenohipófisis y neurohipófisis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque las glándulas periféricas no reguladas por el eje hipofisario son paratiroides, páncreas endocrino y glándula pineal.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 164"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-164",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuántas estructuras paratiroideas se mencionan?",
+          "options": [
+            "Cuatro",
+            "Dos",
+            "Tres",
+            "Cinco"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque se mencionan cuatro.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 165"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-165",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué hormona producen las glándulas paratiroides?",
+          "options": [
+            "Hormona paratiroidea o PTH",
+            "Calcitonina",
+            "Insulina",
+            "Melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las glándulas paratiroides producen hormona paratiroidea o PTH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 166"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-166",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿De qué depende la secreción de PTH?",
+          "options": [
+            "De la concentración de calcio en sangre",
+            "De la glucemia",
+            "De la luz",
+            "Del cortisol"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la secreción de PTH depende de la concentración de calcio en sangre.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 167"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-167",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre cuando baja el calcio en sangre?",
+          "options": [
+            "Aumenta la secreción de PTH",
+            "Disminuye la PTH",
+            "Se libera insulina",
+            "Aumenta la melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque cuando baja el calcio en sangre, aumenta la secreción de PTH.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 168"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-168",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la PTH sobre la calcemia?",
+          "options": [
+            "La aumenta",
+            "La disminuye",
+            "No la modifica",
+            "La vuelve cero"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la PTH sobre la calcemia la aumenta.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 169"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-169",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la PTH sobre el intestino?",
+          "options": [
+            "Favorece la absorción de calcio",
+            "Inhibe toda absorción",
+            "Solo absorbe sodio",
+            "No tiene efecto"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la PTH sobre el intestino favorece la absorción de calcio.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 170"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-170",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la PTH sobre los riñones?",
+          "options": [
+            "Favorece la reabsorción de calcio",
+            "Aumenta la pérdida de calcio",
+            "No actúa",
+            "Solo regula glucosa"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la PTH sobre los riñones favorece la reabsorción de calcio.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 171"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-171",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la PTH sobre el hueso?",
+          "options": [
+            "Favorece la liberación de calcio del hueso",
+            "Favorece la entrada de calcio al hueso exclusivamente",
+            "No modifica el hueso",
+            "Solo aumenta el potasio"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la PTH sobre el hueso favorece la liberación de calcio del hueso.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 172"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-172",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué mecanismo regula la PTH cuando aumenta la calcemia?",
+          "options": [
+            "Feedback negativo",
+            "Feedback positivo",
+            "Reflejo pupilar",
+            "Secreción de melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la PTH cuando aumenta la calcemia se regula mediante feedback negativo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 173"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-173",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿De qué depende la actividad del páncreas endocrino según el tema?",
+          "options": [
+            "De la glucemia o glucosa en sangre",
+            "De la calcemia",
+            "De la luz",
+            "De la presión arterial"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la actividad del páncreas endocrino depende de la glucemia o glucosa en sangre.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 174"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-174",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué relación tienen insulina y glucagón?",
+          "options": [
+            "Funciones opuestas",
+            "Funciones idénticas",
+            "No se relacionan",
+            "Ambas aumentan la glucemia"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque insulina y glucagón tienen funciones opuestas.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 175"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-175",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuándo aumenta la insulina?",
+          "options": [
+            "Cuando aumenta la glucosa en sangre, generalmente tras comer",
+            "Durante el ayuno",
+            "Cuando baja la glucemia",
+            "Por la noche exclusivamente"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la insulina aumenta cuando aumenta la glucosa en sangre, generalmente tras comer.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 176"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-176",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuándo aumenta el glucagón?",
+          "options": [
+            "Durante los periodos de ayuno",
+            "Después de comer",
+            "Cuando la glucosa está alta",
+            "Solo durante el sueño"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el glucagón aumenta durante los periodos de ayuno.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 177"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-177",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué evita el glucagón según el tema?",
+          "options": [
+            "Que la glucosa entre en las células para quedar disponible en sangre",
+            "Que la glucosa se eleve en sangre",
+            "Que el hígado libere glucosa",
+            "Que se use energía"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "explanation": "Porque el glucagón evita que la glucosa entre en las células para quedar disponible en sangre.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 178"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-178",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué son los islotes de Langerhans?",
+          "options": [
+            "Conjuntos funcionales endocrinos del páncreas",
+            "Folículos tiroideos",
+            "Células de la adenohipófisis",
+            "Acúmulos de melanina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque los islotes de Langerhans son agrupaciones endocrinas del páncreas donde se producen hormonas como insulina y glucagón.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 179"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-179",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué células de los islotes de Langerhans secretan glucagón?",
+          "options": [
+            "Células alfa",
+            "Células beta",
+            "Células delta",
+            "Células foliculares"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las células de los islotes de Langerhans secretan glucagón que corresponden son células alfa.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 180"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-180",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué células de los islotes de Langerhans secretan insulina?",
+          "options": [
+            "Células beta",
+            "Células alfa",
+            "Células paratiroideas",
+            "Células tiroideas"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque las células de los islotes de Langerhans secretan insulina que corresponden son células beta.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 181"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-181",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuál es la función principal de insulina y glucagón?",
+          "options": [
+            "Regular los niveles de glucosa sanguínea",
+            "Regular la calcemia",
+            "Regular la secreción de melatonina",
+            "Regular la visión"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la función principal de insulina y glucagón es regular los niveles de glucosa sanguínea.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 182"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-182",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre cuando aumenta la concentración de glucosa sanguínea?",
+          "options": [
+            "Las células beta liberan insulina",
+            "Las células alfa liberan glucagón",
+            "Aumenta PTH",
+            "Aumenta melatonina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque cuando aumenta la concentración de glucosa sanguínea, las células beta liberan insulina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 183"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-183",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la insulina sobre la glucemia?",
+          "options": [
+            "La disminuye",
+            "La aumenta",
+            "No la modifica",
+            "La hace independiente de la comida"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la insulina sobre la glucemia la disminuye.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 184"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-184",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué favorece la insulina tras una comida?",
+          "options": [
+            "La formación de moléculas de reserva energética",
+            "La liberación de glucosa al plasma",
+            "La producción de melatonina",
+            "La liberación de calcio óseo"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la insulina tras una comida favorece la formación de moléculas de reserva energética.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 185"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-185",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué ocurre cuando disminuye la concentración de glucosa sanguínea?",
+          "options": [
+            "Las células alfa liberan glucagón",
+            "Las células beta liberan insulina",
+            "Aumenta la TSH",
+            "Aumenta la oxitocina"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque cuando disminuye la concentración de glucosa sanguínea, las células alfa liberan glucagón.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 186"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-186",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene el glucagón sobre la glucemia?",
+          "options": [
+            "La aumenta",
+            "La disminuye",
+            "No la modifica",
+            "La convierte en calcio"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque el glucagón sobre la glucemia la aumenta.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 187"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-187",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuándo se estimula especialmente la síntesis de glucagón según el esquema?",
+          "options": [
+            "Durante épocas de ayuno",
+            "Tras comidas copiosas",
+            "Durante sueño profundo exclusivamente",
+            "Con exceso de luz"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la síntesis de glucagón según el esquema se estimula especialmente durante épocas de ayuno.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 188"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-188",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Dónde se localiza la glándula pineal?",
+          "options": [
+            "A nivel encefálico",
+            "En el páncreas",
+            "En el riñón",
+            "En el cuello"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la glándula pineal se localiza a nivel encefálico.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 189"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-189",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Con qué hormona está relacionada la glándula pineal?",
+          "options": [
+            "Melatonina",
+            "Insulina",
+            "PTH",
+            "Cortisol"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la glándula pineal está relacionada con la producción de melatonina.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 190"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-190",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Para qué sirve la melatonina según el tema?",
+          "options": [
+            "Para regular los ciclos sueño-vigilia del organismo",
+            "Para aumentar la glucemia",
+            "Para elevar el calcio",
+            "Para producir leche"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la melatonina sirve para regular los ciclos sueño-vigilia del organismo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 191"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-191",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuándo secreta melatonina la glándula pineal?",
+          "options": [
+            "Por la noche",
+            "Durante el día",
+            "Solo tras las comidas",
+            "Solo durante el ejercicio"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque melatonina la glándula pineal secreta por la noche.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 192"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-192",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la luz sobre la glándula pineal?",
+          "options": [
+            "La inhibe",
+            "La activa",
+            "No la modifica",
+            "La convierte en hipófisis"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la luz sobre la glándula pineal la inhibe.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 193"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-193",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la oscuridad sobre la glándula pineal?",
+          "options": [
+            "La activa",
+            "La inhibe",
+            "No la modifica",
+            "La destruye"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la oscuridad sobre la glándula pineal la activa.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 194"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-194",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿A qué vía está conectada la glándula pineal para captar información lumínica?",
+          "options": [
+            "A las vías nerviosas sensitivas relacionadas con el ojo",
+            "A las vías digestivas",
+            "A las vías urinarias",
+            "A las vías auditivas exclusivamente"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la glándula pineal recibe información lumínica a través de vías nerviosas sensitivas relacionadas con el ojo.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 195"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-195",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cuándo se produce más melatonina según el tema?",
+          "options": [
+            "Cuando hay poca luz",
+            "Cuando hay mucha luz",
+            "Después de comer",
+            "Durante el ejercicio"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la melatonina aumenta cuando hay poca luz, especialmente durante la noche.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 196"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-196",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué acción de la melatonina se menciona sobre los ritmos circadianos?",
+          "options": [
+            "Sincroniza los ritmos circadianos",
+            "Los elimina",
+            "Los vuelve aleatorios",
+            "No actúa sobre ellos"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la melatonina se menciona sobre los ritmos circadianos sincroniza los ritmos circadianos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 197"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-197",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué dos funciones regula la melatonina dentro de los ritmos circadianos según el tema?",
+          "options": [
+            "El ciclo sueño/vigilia y la temperatura corporal",
+            "La calcemia y la glucemia",
+            "La secreción de leche y la ovulación",
+            "La audición y la visión"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la melatonina dentro de los ritmos circadianos regula el ciclo sueño/vigilia y la temperatura corporal.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 198"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-198",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué propiedad antioxidante tiene la melatonina según el tema?",
+          "options": [
+            "Es un potente antioxidante",
+            "Es un potente oxidante",
+            "No tiene actividad antioxidante",
+            "Solo aumenta la glucemia"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque la melatonina es un potente antioxidante.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 199"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-199",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué efecto tiene la melatonina sobre el esqueleto?",
+          "options": [
+            "Evita la reabsorción del hueso y por tanto la pérdida de masa ósea",
+            "Aumenta la reabsorción ósea",
+            "No actúa sobre el hueso",
+            "Disminuye la mineralización siempre"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la melatonina sobre el esqueleto evita la reabsorción del hueso y por tanto la pérdida de masa ósea.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 200"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-200",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Qué propiedad inmunitaria se atribuye a la melatonina?",
+          "options": [
+            "Propiedades inmunoestimuladoras",
+            "Propiedades inmunosupresoras",
+            "Ausencia de efecto",
+            "Solo actividad digestiva"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque a la melatonina se le atribuyen propiedades inmunoestimuladoras.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 201"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-201",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿Cómo cambia la concentración plasmática diaria de melatonina con la edad según la gráfica?",
+          "options": [
+            "Es mayor en sujetos jóvenes que en viejos",
+            "Es mayor en ancianos que en jóvenes",
+            "Es idéntica",
+            "Desaparece en jóvenes"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "explanation": "Porque la concentración plasmática diaria de melatonina con la edad según la gráfica es mayor en sujetos jóvenes que en viejos.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 202"
+        },
+        {
+          "id": "fisioterapia-tema-4-fisiologia-del-aparato-endocrino-202",
+          "topicId": "tema-4-fisiologia-del-aparato-endocrino",
+          "prompt": "¿En qué periodo del día alcanza sus niveles más altos la melatonina en la gráfica?",
+          "options": [
+            "Durante la noche",
+            "A mediodía",
+            "Por la tarde",
+            "Después del desayuno"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "explanation": "Porque sus niveles más altos la melatonina en la gráfica alcanza sus niveles más altos durante la noche.",
+          "source": "preguntas_tipo_test_fisioterapia_tema_4_con_explicaciones.xlsx, fila 203"
         },
         {
           "id": "fisioterapia-tema-5-fisiologia-cardiovascular-y-linfatico-001",
