@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Banco de Tests</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Banco de tests</h1>
+      </div>
+      <button id="loadFileButton" class="icon-button" title="Añadir preguntas desde Excel o JSON" aria-label="Añadir preguntas desde Excel o JSON">
+        <span>↥</span>
+      </button>
+      <input id="fileInput" type="file" accept="application/json,.json,.xlsx" multiple hidden />
+    </header>
+
+    <main class="layout">
+      <section id="setupView" class="panel">
+        <div class="toolbar">
+          <label>
+            Asignatura
+            <select id="subjectSelect"></select>
+          </label>
+          <fieldset class="topic-field">
+            <div class="field-head">
+              <legend>Temas</legend>
+              <span id="topicSelectionSummary"></span>
+            </div>
+            <div class="topic-tools">
+              <input id="topicSearch" type="search" placeholder="Buscar tema" autocomplete="off" />
+              <button id="selectAllTopicsButton" type="button">Todos</button>
+              <button id="clearTopicsButton" type="button">Ninguno</button>
+            </div>
+            <div id="topicCheckboxes" class="topic-checks"></div>
+          </fieldset>
+          <label>
+            Duración
+            <select id="lengthSelect">
+              <option value="10">Rápido · 10</option>
+              <option value="20">Normal · 20</option>
+              <option value="custom">Personalizado</option>
+            </select>
+          </label>
+          <label id="customLengthLabel" class="hidden">
+            Preguntas
+            <input id="customLengthInput" type="text" inputmode="numeric" pattern="[0-9]*" value="30" />
+          </label>
+          <label>
+            Dificultad
+            <select id="difficultySelect">
+              <option value="mixed">Mixta</option>
+              <option value="easy">Fácil</option>
+              <option value="medium">Media</option>
+              <option value="hard">Difícil</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="stats" id="stats"></div>
+
+        <div class="actions">
+          <button id="startButton" class="primary">Empezar test</button>
+          <button id="reviewButton">Repasar falladas</button>
+          <button id="clearMissedButton">Limpiar falladas</button>
+        </div>
+      </section>
+
+      <section id="quizView" class="panel hidden">
+        <div class="quiz-head">
+          <button id="backButton" class="ghost">←</button>
+          <div>
+            <p id="quizMeta" class="eyebrow"></p>
+            <h2 id="questionCounter"></h2>
+          </div>
+          <div id="scorePill" class="pill"></div>
+        </div>
+
+        <article class="question">
+          <p id="questionText"></p>
+          <div id="answers" class="answers"></div>
+        </article>
+
+        <aside id="feedback" class="feedback hidden"></aside>
+
+        <div class="actions">
+          <button id="nextButton" class="primary" disabled>Siguiente</button>
+        </div>
+      </section>
+
+      <section id="resultView" class="panel hidden">
+        <p class="eyebrow">Resultado</p>
+        <h2 id="resultTitle"></h2>
+        <div id="resultSummary" class="stats"></div>
+        <div id="missedList" class="missed"></div>
+        <div class="actions">
+          <button id="retryMissedButton">Repetir falladas</button>
+          <button id="newTestButton" class="primary">Nuevo test</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
