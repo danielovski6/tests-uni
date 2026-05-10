@@ -17,7 +17,7 @@ La dificultad funciona como mezcla ponderada:
 - `Dificil`: prioriza dificiles, pero rellena con medias/faciles si no hay suficientes.
 - `Mixta`: reparte de forma equilibrada.
 
-La duracion permite test rapido, normal o una cantidad personalizada.
+La duracion permite test rapido, normal o una cantidad personalizada. La seleccion de preguntas usa aleatoriedad criptografica del navegador cuando esta disponible y evita repetir preguntas usadas en los ultimos tests siempre que la pool sea suficientemente grande.
 
 Funcion oculta de borrado: haz 7 clics rapidos sobre el titulo `Banco de tests` y escribe la contrasena `valencia`. Esto vacia el banco en ese navegador y borra preguntas importadas, falladas guardadas y renombres de temas.
 

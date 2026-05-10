@@ -51,6 +51,13 @@ h1 {
   letter-spacing: 0;
 }
 
+.version-label {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+  margin-top: 2px;
+}
+
 h2 {
   font-size: 24px;
   letter-spacing: 0;

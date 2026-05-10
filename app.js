@@ -1,7 +1,9 @@
 const STORAGE_KEY = "extraQuestionBank";
 const TOPIC_TITLES_KEY = "topicTitleOverrides";
 const BANK_DISABLED_KEY = "questionBankDisabled";
+const RECENT_QUESTIONS_KEY = "recentQuestionIds";
 const DELETE_PASSWORD = "valencia";
+const RECENT_TEST_WINDOW = 8;
 
 const state = {
   bank: null,
@@ -161,9 +163,10 @@ function stat(label, value) {
 
 function startQuiz(questions) {
   const desired = getDesiredQuestionCount(questions.length);
-  state.activeQuestions = pickWeightedQuestions(questions, desired, els.difficulty.value);
+  state.activeQuestions = pickWeightedQuestions(questions, desired, els.difficulty.value, recentQuestionIds());
   state.currentIndex = 0;
   state.answers = [];
+  rememberRecentQuestions(state.activeQuestions.map((question) => question.id), questions.length);
   show("quiz");
   renderQuestion();
 }
@@ -175,12 +178,15 @@ function getDesiredQuestionCount(available) {
   return Math.min(desired, available);
 }
 
-function pickWeightedQuestions(questions, desired, difficultyMode) {
+function pickWeightedQuestions(questions, desired, difficultyMode, recentIds = new Set()) {
   const normalized = shuffle(questions.map((question) => ({ ...question, difficulty: normalizeDifficulty(question.difficulty) })));
+  const avoidRecent = normalized.length >= desired * 3;
+  const candidates = avoidRecent ? normalized.filter((question) => !recentIds.has(question.id)) : normalized;
+  const usable = candidates.length >= desired ? candidates : normalized;
   const buckets = {
-    easy: normalized.filter((question) => question.difficulty === "easy"),
-    medium: normalized.filter((question) => question.difficulty === "medium"),
-    hard: normalized.filter((question) => question.difficulty === "hard"),
+    easy: shuffle(usable.filter((question) => question.difficulty === "easy")),
+    medium: shuffle(usable.filter((question) => question.difficulty === "medium")),
+    hard: shuffle(usable.filter((question) => question.difficulty === "hard")),
   };
   const plan = difficultyPlans[difficultyMode] || difficultyPlans.mixed;
   const picked = [];
@@ -203,7 +209,7 @@ function pickWeightedQuestions(questions, desired, difficultyMode) {
       picked.push(next);
       used.add(next.id);
     } else {
-      const fallback = normalized.find((question) => !used.has(question.id));
+      const fallback = usable.find((question) => !used.has(question.id)) || normalized.find((question) => !used.has(question.id));
       if (!fallback) break;
       picked.push(fallback);
       used.add(fallback.id);
@@ -336,10 +342,25 @@ function difficultyLabel(value) {
 }
 
 function shuffle(items) {
-  return items
-    .map((item) => [Math.random(), item])
-    .sort((a, b) => a[0] - b[0])
-    .map(([, item]) => item);
+  const shuffled = [...items];
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const swapIndex = randomInt(index + 1);
+    [shuffled[index], shuffled[swapIndex]] = [shuffled[swapIndex], shuffled[index]];
+  }
+  return shuffled;
+}
+
+function randomInt(maxExclusive) {
+  if (maxExclusive <= 1) return 0;
+  if (window.crypto?.getRandomValues) {
+    const limit = Math.floor(0x100000000 / maxExclusive) * maxExclusive;
+    const value = new Uint32Array(1);
+    do {
+      window.crypto.getRandomValues(value);
+    } while (value[0] >= limit);
+    return value[0] % maxExclusive;
+  }
+  return Math.floor(Math.random() * maxExclusive);
 }
 
 function show(view) {
@@ -366,6 +387,7 @@ function wipeQuestionBank() {
   localStorage.setItem(BANK_DISABLED_KEY, "true");
   localStorage.removeItem(STORAGE_KEY);
   localStorage.removeItem(TOPIC_TITLES_KEY);
+  localStorage.removeItem(RECENT_QUESTIONS_KEY);
   localStorage.removeItem("missedQuestionIds");
   state.bank = emptyBank();
   state.defaultQuestionIds = new Set();
@@ -381,6 +403,32 @@ function clearMissedQuestions() {
   state.missedIds = new Set();
   localStorage.removeItem("missedQuestionIds");
   renderStats();
+}
+
+function recentQuestionIds() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(RECENT_QUESTIONS_KEY) || "[]"));
+  } catch {
+    return new Set();
+  }
+}
+
+function rememberRecentQuestions(questionIds, poolSize) {
+  const maxRecent = Math.min(Math.max(0, poolSize - questionIds.length), questionIds.length * RECENT_TEST_WINDOW);
+  if (maxRecent === 0) {
+    localStorage.removeItem(RECENT_QUESTIONS_KEY);
+    return;
+  }
+  const recent = [...questionIds, ...recentQuestionIds()].filter(Boolean);
+  const deduped = [];
+  const seen = new Set();
+  for (const id of recent) {
+    if (seen.has(id)) continue;
+    seen.add(id);
+    deduped.push(id);
+    if (deduped.length >= maxRecent) break;
+  }
+  localStorage.setItem(RECENT_QUESTIONS_KEY, JSON.stringify(deduped));
 }
 
 function saveExtraBank() {
